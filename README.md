@@ -18,11 +18,11 @@ Credits: [GameDev.Tv](https://www.udemy.com/user/gamedevtv/)
 
 ## Fourth Project - Vampire Survival Clone (WebGL)
 Source Code: https://github.com/WellyngtonMolinari/Vampire-Survival<br>
-Demo: [browser-demo (itch.io)]([https://wellyngtonmolinari.itch.io/vampiresurvivorsunity](https://chat.openai.com/))
+Demo: [browser-demo (itch.io)](https://wellyngtonmolinari.itch.io/vampiresurvivorsunity)
 
 ## Fifth Project - Snake Game made with ChatGPT (Only Source Code)
 Source Code: https://github.com/WellyngtonMolinari/SnakeGame
-Credits: [ChatGPT](https://www.udemy.com/user/gamedevtv/)
+Credits: [ChatGPT](https://chat.openai.com/)
 
 ## Sixth Project - Snowboarder (WebGL)
 Source Code: https://github.com/WellyngtonMolinari/Snow-Boarder<br>
